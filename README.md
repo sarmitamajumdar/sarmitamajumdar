@@ -10,6 +10,4 @@ Here are some ideas to get you started:
 - 👯 I’m eager to work with mentors in a team.
 - 💬 Ask me about Data Science topics related to my work.
 - 📫 How to reach me: +91 9831634975
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
