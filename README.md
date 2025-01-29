@@ -5,9 +5,39 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a self-directed  Diabetic Retinopathy project(Dr.SMit), using public data from Kaggle.  This is informative as well as assistive to diabetic / non-diabetic patients to detect whether they have retinopathy problems or not.  This will open up a window to diagnose or start treatment.
-- 🌱 I’m currently learning further about Deep Neural Network models.
-- 👯 I’m eager to work with mentors in a team.
+- 🔭 I am a Data Science Consultant with experience in data analytics, and machine learning. With a passion for uncovering insights from data, I specialize in building automated pipelines, business intelligence dashboards, and predictive models. I am focused on fully transitioning into data science. 
+- 🔍 Exploring opportunities in data science and analytics.
+- 📊 Experienced in ClickHouse, Power BI, SQL, and Python.
+- 🤝 Open to collaborations on real-world analytics projects.
+
+### 🛠️ Tech Stack & Skills
+
+- Programming & Data: Python, SQL, Pandas, NumPy, Scikit-learn, XGBoost
+
+- Databases: ClickHouse, PostgreSQL, SQL
+
+- Visualization: Power BI, Matplotlib, Seaborn, MS-Excel
+
+- Web Scraping & Automation: BeautifulSoup, Selenium
+
+### Machine Learning: Supervised & Unsupervised Learning. Causal Inference
+#### Featured Projects
+
+🔹 Insurance Report Generation for SAAS Subscriptions.
+
+- Automated data pipeline for extracting, cleaning, and analyzing insurance claims & premium data.
+
+- Integrated ClickHouse for fast queries and built a Power BI dashboard.
+
+- Applied XGBoost for premium trend forecasting.
+
+🔹 IBSN Charity Donation Analysis
+
+Developed a donation prediction model to identify high-value donors.
+
+Used classification algorithms (Logistic Regression, Random Forest).
+
+Created interactive insights with Power BI & Matplotlib.
 - 💬 Ask me about Data Science topics related to my work.
 - 📫 How to reach me: +91 9831634975 
 -->
