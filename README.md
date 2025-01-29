@@ -37,7 +37,19 @@ Developed a donation prediction model to identify high-value donors.
 
 Used classification algorithms (Logistic Regression, Random Forest).
 
-Created interactive insights with Power BI & Matplotlib.
-- 💬 Ask me about Data Science topics related to my work.
-- 📫 How to reach me: +91 9831634975 
+📈 GitHub Stats
+
+
+
+📫 Connect With Me
+
+💼 LinkedIn: Your Profile
+
+📩 Email: Your Email
+
+🌐 Portfolio: [Coming Soon!]
+
+💡 Let's collaborate on impactful data science projects! 🚀
+
+
 -->
